@@ -1,0 +1,21 @@
+palabras clave poo
+clase
+objetos
+UML~~diagrama clase
+
+
+
+
+4  pilares   {(adtraccion,encasulamiento, herencia), (herencia, polimorfismo,)}
+
+pilares{modalaridad, jerarquía}
+
+Recolección {Asociación, Agregación}
+
+
+clase: Base o Padre
+Persona
+derivada - subclase - clasebasehijo
+
+clase       base         clase 
+Alumno    Profesor      Auxiliar 
